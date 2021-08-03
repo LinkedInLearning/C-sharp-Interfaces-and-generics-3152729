@@ -1,7 +1,6 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# C#: Interfaces and Generics
+This is the repository for the LinkedIn Learning course `C#: Interfaces and Generics`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
